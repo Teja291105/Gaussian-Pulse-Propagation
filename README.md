@@ -52,13 +52,7 @@ Compare the simulation results with the theoretical calculations and discuss any
 
 ## Results to Record
 <img width="1448" height="1015" alt="image" src="https://github.com/user-attachments/assets/bdb68fa2-5c0b-49ea-873b-3a9634b53e19" />
-
-
-
-
 ---
- Results to Record
-<img width="1448" height="1015" alt="Screenshot 2026-02-05 113211" src="https://github.com/user-attachments/assets/5a7b450e-e6d6-4efc-8c33-791775fdfa8c" />
 
 
 
